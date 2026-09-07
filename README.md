@@ -1,5 +1,8 @@
 # 🎓 Code Review Assistant - Codelab Edition
 
+Built from the [adk-code-review-assistant](https://github.com/ayoisio/adk-code-review-assistant) codelab scaffold by Ayo Adedeji.
+
+
 **Learn to build production AI agents with Google ADK**
 
 This is the educational codelab branch designed for the "Building a Production AI Code Review Assistant with Google ADK" workshop. You'll progressively build a complete multi-agent system from scratch, learning production patterns along the way.
